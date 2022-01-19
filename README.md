@@ -52,8 +52,9 @@ you can attach this to cube of Samplescene
 ##### After
 ![image](https://user-images.githubusercontent.com/26586104/150167508-62801740-78f6-4de8-9f44-233ea3ea29b5.png)
 
+<br />
 
-#### Recommend Script is ReplayWithPosition - PlayerMovementInput.cs
+### Recommend Script is ReplayWithPosition - PlayerMovementInput.cs
 
 also recommend used fixedupdate for recording replay
 
